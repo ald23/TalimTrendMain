@@ -1,0 +1,6 @@
+framework module Pods_Talim_trend_MAIN {
+  umbrella header "Pods-Talim-trend MAIN-umbrella.h"
+
+  export *
+  module * { export * }
+}
